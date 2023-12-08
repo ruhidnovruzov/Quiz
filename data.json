@@ -1,0 +1,30 @@
+{
+    "questions": [
+      {
+        "question": "Dünyada ən uzun çay hansı ölkədə yerləşir?",
+        "options": ["Çin", "Hindistan", "Rusiya", "Brazilya"],
+        "correctAnswer": "Çin"
+      },
+      {
+        "question": "HTML in açıqlaması nədir?",
+        "options": ["HyperText Markup Language", "High-Level Text Modeling Language", "HyperTransfer Markup Language", "Home Tool Markup Language"],
+        "correctAnswer": "HyperText Markup Language"
+      },
+      {
+        "question": "İlk İnsanın kosmosa uçuşunu həyata keçirən kosmonavt kimdir?",
+        "options": ["Yuri Gagarin", "Neil Armstrong", "Buzz Aldrin", " Valentina Tereshkova"],
+        "correctAnswer": "Yuri Gagarin"
+      },
+      {
+        "question": "Hansı element Fe simvolu ilə göstərilir?",
+        "options": ["Fosfor", "Demir", "Xlor", "Hidrogen"],
+        "correctAnswer": "Demir"
+      }
+      ,
+      {
+        "question": "Güneş sistemindəki ən böyük planet hansıdır?",
+        "options": ["Mars", "Yupiter", "Venera", "Uran"],
+        "correctAnswer": "Yupiter"
+      }
+    ]
+  }
